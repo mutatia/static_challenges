@@ -1,0 +1,35 @@
+.content {
+  min-height: calc(100vh - 180px);
+}
+
+.art-museum {
+  display: block;
+  float: left;
+  height: 50%;
+  width: auto;
+}
+
+.logo {
+  background-color: red;
+  height: 55px;
+}
+
+.header {
+  background-color: #333333;
+  height: 45px;
+}
+
+.footer {
+  background-color: #333333;
+  height: 100px;
+  text-align: left;
+}
+
+footer {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.footer-text {
+  color: white;
+}
